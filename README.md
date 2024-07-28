@@ -1,6 +1,6 @@
 # Hi there! 👨🏻‍💻
 
-![linkedin image](https://github.com/user-attachments/assets/ce275920-e632-464d-a6ab-4ab4b67acb43)
+[![linkedin image](https://github.com/user-attachments/assets/ce275920-e632-464d-a6ab-4ab4b67acb43)](https://www.linkedin.com/in/alex-barbosa-3b3ba015a/)
 
 I'm a Product Marketing Manager working in a technology company specializing in business process automation and management services.
 

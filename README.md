@@ -1,6 +1,6 @@
 # Hi there! 👨🏻‍💻
 
-[![linkedin image](https://github.com/user-attachments/assets/9fd80664-383e-469a-a40e-8c35f5af5f2c)](https://www.linkedin.com/in/alex-barbosa-3b3ba015a/)
+![linkedin image](https://github.com/user-attachments/assets/ce275920-e632-464d-a6ab-4ab4b67acb43)
 
 I'm a Product Marketing Manager working in a technology company specializing in business process automation and management services.
 
@@ -20,3 +20,4 @@ My personal goal is to learn new technologies that can drive business evolution.
 
 
 "*Your only limitation is the one you set for your own mind.*" - Napoleon Hill
+
